@@ -1,0 +1,14 @@
+cmake_minimum_required(VERSION 3.31)
+project(PTIT_CNTT4_IT103 C)
+
+set(CMAKE_C_STANDARD 11)
+
+add_executable(PTIT_CNTT4_IT103 main.c
+        PTIT_CNTT4_IT103_Session01/PTIT_CNTT4_IT103_Session01_Bai02.c
+        PTIT_CNTT4_IT103_Session01/PTIT_CNTT4_IT103_Session01_Bai01.c
+        PTIT_CNTT4_IT103_Session01/PTIT_CNTT4_IT103_Session01_Bai03.c
+        PTIT_CNTT4_IT103_Session01/PTIT_CNTT4_IT103_Session01_Bai04.c
+        PTIT_CNTT4_IT103_Session01/PTIT_CNTT4_IT103_Session01_Bai05.c
+        PTIT_CNTT4_IT103_Session01/PTIT_CNTT4_IT103_Session01_Bai06.c
+        PTIT_CNTT4_IT103_Session01/PTIT_CNTT4_IT103_Session01_Bai07.c
+        PTIT_CNTT4_IT103_Session01/PTIT_CNTT4_IT103_Session01_Bai08.c)
