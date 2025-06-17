@@ -4,7 +4,7 @@
 #include <stdio.h>
 
 int main() {
-    int data[] = {1, 3, 4, 5, 6, 7, 8, 2, 3, ,6 3 ,6};
+    int data[] = {1, 3, 4, 5, 6, 7, 8, 2, 3, 6, 3 ,6};
     int len = sizeof(data) / sizeof(data[0]);
 
     int max = 0;
