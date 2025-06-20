@@ -10,6 +10,11 @@ int main() {
     printf("Moi nhaap so luong phan tu (1-100):");
     scanf("%d", &n);
 
+    if (n < 1 || n > 100) {
+        printf("So luong phan tu khong hop le!");
+        return 1;
+    }
+
     printf("Moi nhap %d phan tu: \n", n);
     for (int i = 0; i < n; i++) {
         scanf("%d", &arr[i]);

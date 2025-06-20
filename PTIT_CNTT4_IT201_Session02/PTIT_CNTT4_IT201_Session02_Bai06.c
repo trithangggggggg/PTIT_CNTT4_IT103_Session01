@@ -5,8 +5,12 @@ int main() {
 
     int n, value, index;
 
-    printf("Moi nhap so luong phan tu:");
+    printf("Moi nhap so luong phan tu (1-100):");
     scanf("%d", &n);
+    if ( n < 1 || n > 100) {
+        printf("So luong pt ko hop le!");
+        return 1;
+    }
 
     int *arr = (int*)malloc(n * sizeof(int));
     if (arr == NULL) {
