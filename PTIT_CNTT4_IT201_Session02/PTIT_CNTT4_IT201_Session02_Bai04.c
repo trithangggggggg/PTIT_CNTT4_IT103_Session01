@@ -10,7 +10,7 @@ int main() {
     printf("Nhap so luong phan tu (1-100): ");
     scanf("%d", &n);
 
-    printf("Nhap %d phan tu: \n",n);
+    printf("Nhap %d phan tu: ",n);
     for (int i = 0; i < n; i++) {
         scanf("%d", &arr[i]);
     }

@@ -7,7 +7,7 @@
 
 int findValueMax(int * arr, int size) {
     if (size <= 0) {
-        return 0;
+        return 1;
     }
     int max = arr[0];
     for (int i = 1; i < size; i++) {
