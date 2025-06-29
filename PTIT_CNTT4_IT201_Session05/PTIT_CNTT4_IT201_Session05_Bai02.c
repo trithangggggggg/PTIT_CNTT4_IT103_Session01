@@ -6,7 +6,7 @@
 
 int total(int n) {
     if (n <= 0) {
-        return;
+        return 0;
     }
     return  total(n - 1) + n;
 }

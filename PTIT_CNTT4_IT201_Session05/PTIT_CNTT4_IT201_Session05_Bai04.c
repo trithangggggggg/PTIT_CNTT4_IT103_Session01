@@ -16,6 +16,10 @@ int main() {
     scanf("%d", &a);
     printf("Nhap so nguyen secondNumber: ");
     scanf("%d", &b);
+    if (a > b) {
+        printf("So thu nhat phai nho hon so thu 2!");
+        return 1;
+    }
 
     int sum = total(a, b);
     printf("TOng tu %d den %d la: %d", a, b, sum);
