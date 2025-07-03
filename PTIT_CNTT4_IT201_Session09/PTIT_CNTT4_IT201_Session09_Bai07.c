@@ -90,7 +90,7 @@ int main() {
     int data, pos;
     printf("\nNhap gia tri can chen: ");
     scanf("%d", &data);
-    printf("\nNhap vi tri can chen: ");
+    printf("\nNhap vi tri can chen:  ");
     scanf("%d", &pos);
 
     head = addPosition(head, data, pos);
