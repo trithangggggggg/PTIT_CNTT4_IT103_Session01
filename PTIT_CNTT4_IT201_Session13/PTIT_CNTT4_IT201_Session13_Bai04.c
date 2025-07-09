@@ -39,6 +39,7 @@ void printStack(Stack s) {
     printf("}\n");
 }
 
+
 void viewStack(Stack s) {
     if (s.top == -1) {
         printf("Rong\n");

@@ -69,6 +69,7 @@ int main() {
     printf("Mang sau dao nguoc la: ");
     printArray(arr, n);
 
+
     free(arr);
     return 0;
 }

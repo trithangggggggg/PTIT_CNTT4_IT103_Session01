@@ -104,4 +104,5 @@ add_executable(PTIT_CNTT4_IT103 main.c
         PTIT_CNTT4_IT201_Session13/PTIT_CNTT4_IT201_Session13_Bai05.c
         PTIT_CNTT4_IT201_Session13/PTIT_CNTT4_IT201_Session13_Bai06.c
         PTIT_CNTT4_IT201_Session13/PTIT_CNTT4_IT201_Session13_Bai07.c
+        PTIT_CNTT4_IT201_Session13/PTIT_CNTT4_IT201_Session13_Bai08.c
 )

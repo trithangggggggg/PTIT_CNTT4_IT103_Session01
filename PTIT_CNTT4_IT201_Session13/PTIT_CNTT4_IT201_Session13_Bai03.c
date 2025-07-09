@@ -43,6 +43,7 @@ void printStack(Stack s) {
             printf(", ");
         }
     }
+
     printf("],\n");
     printf("  top: %d,\n", s.top);
     printf("  cap: %d\n", s.maxSize);

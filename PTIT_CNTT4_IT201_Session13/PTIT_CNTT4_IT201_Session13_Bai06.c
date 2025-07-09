@@ -57,11 +57,12 @@ int main() {
         push(stack,str[i]);
     }
     for(int i = 0; i < leng; i++) {
-        if (pop(stack) != str[i]) {
+        if (pop(stack) != str[leng - i - 1]) {
             printf("false");
             return 1;
         }
     }
     printf("true\n");
+
     return 0;
 }
