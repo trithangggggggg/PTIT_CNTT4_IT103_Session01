@@ -105,4 +105,10 @@ add_executable(PTIT_CNTT4_IT103 main.c
         PTIT_CNTT4_IT201_Session13/PTIT_CNTT4_IT201_Session13_Bai06.c
         PTIT_CNTT4_IT201_Session13/PTIT_CNTT4_IT201_Session13_Bai07.c
         PTIT_CNTT4_IT201_Session13/PTIT_CNTT4_IT201_Session13_Bai08.c
+        PTIT_CNTT4_IT201_Session14/test.c
+        PTIT_CNTT4_IT201_Session14/PTIT_CNTT4_IT201_Session14_Bai01.c
+        PTIT_CNTT4_IT201_Session14/PTIT_CNTT4_IT201_Session14_Bai02.c
+        PTIT_CNTT4_IT201_Session14/PTIT_CNTT4_IT201_Session14_Bai03.c
+        PTIT_CNTT4_IT201_Session14/PTIT_CNTT4_IT201_Session14_Bai04.c
+        PTIT_CNTT4_IT201_Session14/PTIT_CNTT4_IT201_Session14_Bai05.c
 )

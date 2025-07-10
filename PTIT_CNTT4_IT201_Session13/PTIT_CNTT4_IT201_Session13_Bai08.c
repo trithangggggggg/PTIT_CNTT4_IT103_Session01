@@ -50,8 +50,6 @@ int valid(const char str[]) {
     return s.top == -1;
 }
 
-
-
 int main(void) {
 
     char str[100];
