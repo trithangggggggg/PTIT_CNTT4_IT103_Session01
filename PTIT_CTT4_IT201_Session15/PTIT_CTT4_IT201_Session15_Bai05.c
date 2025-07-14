@@ -64,6 +64,10 @@ int deQueue(Queue *q) {
     }
     int value = q->array[q->front];
     q->front++;
+    if (q->front > q->rear) {
+        q->front = 0;
+        q->rear = -1;
+    }
     return value;
 }
 
