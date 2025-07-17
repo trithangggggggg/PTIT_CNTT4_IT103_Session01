@@ -129,4 +129,9 @@ add_executable(PTIT_CNTT4_IT103 main.c
         PTIT_CNTT4_IT201_Session16/PTIT_CNTT4_IT201_Session16_Bai04.c
         PTIT_CNTT4_IT201_Session16/PTIT_CNTT4_IT201_Session16_Bai05.c
         PTIT_CNTT4_IT201_Session16/PTIT_CNTT4_IT201_Session16_Bai06.c
+        PTIT_CNTT4_IT201_OnTapHackathon/call_history.c
+        PTIT_CNTT4_IT201_OnTapHackathon/callcallcall.c
+        PTIT_CNTT4_IT201_OnTapHackathon/demo_hackthon_thayAn.c
+        HN_KS24_CNTT4_NguyenTriThang/hackathon_bai01.c
+        HN_KS24_CNTT4_NguyenTriThang/hackathon_bai02.c
 )
