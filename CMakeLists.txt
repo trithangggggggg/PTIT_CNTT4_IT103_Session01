@@ -134,4 +134,5 @@ add_executable(PTIT_CNTT4_IT103 main.c
         PTIT_CNTT4_IT201_OnTapHackathon/demo_hackthon_thayAn.c
         HN_KS24_CNTT4_NguyenTriThang/hackathon_bai01.c
         HN_KS24_CNTT4_NguyenTriThang/hackathon_bai02.c
+        HN_KS24_CNTT4_NguyenTriThang/hackathon07_bai01.c
 )

@@ -115,7 +115,6 @@ SingleNode *updateSingleNodeById(SingleNode *head, int id) {
     printf("Ten du an cu: %s\n", temp->project.title);
     printf("Nguoi quan ly cu: %s\n", temp->project.owner);
     printf("Muc do uu tien cu: %d\n\n", temp->project.priority);
-
     printf("Moi nhap thong tin moi: \n");
     fflush(stdin);
     printf("Nhap ten du an: ");
