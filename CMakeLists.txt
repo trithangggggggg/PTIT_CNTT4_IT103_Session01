@@ -160,4 +160,7 @@ add_executable(PTIT_CNTT4_IT103 main.c
         PTIT_CNTT4_IT201_Session22/PTIT_CNTT4_IT201_Session022_Bai03.c
         PTIT_CNTT4_IT201_Session22/PTIT_CNTT4_IT201_Session022_Bai04.c
         PTIT_CNTT4_IT201_Session22/PTIT_CNTT4_IT201_Session022_Bai05.c
+        Stack.c
+        Queue.c
+        demo_kiemtra/baitap1.c
 )
